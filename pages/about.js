@@ -5,8 +5,8 @@ export default function About() {
     <div className="nes-container with-title ">
       <p className="title">About me</p>
       <p>
-        Hi, Im Julio Pinheiro and I live in São Paulo, Brazil. Ive been a
-        software developer for the past nine years! Ive been working in several
+        Hi, I'm Julio Pinheiro and I live in São Paulo, Brazil. I've been a
+        software developer for the past nine years! I've been working in several
         business segments and with very cool and interesting technologies. I
         learned a lot during my career, and what I value the most is
         understanding the real needs of the clients/business. I also had the
