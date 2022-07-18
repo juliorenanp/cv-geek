@@ -71,7 +71,7 @@ export default function Experience() {
                 Currently I am responsible for the search and correction of
                 information security vulnerabilities in all the systems used by
                 Banco {"Safra's"} Financial Department. Throughout the work we
-                managed to reduce the number of vulnerabilities by 90%.{" "}
+                managed to reduce the number of vulnerabilities by 90%.{"   "}
               </li>
             </ul>
             <ul>
