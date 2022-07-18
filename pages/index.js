@@ -4,6 +4,7 @@ import styles from "../styles/Home.module.css";
 import Header from "./header";
 import About from "./about";
 import Skills from "./skills";
+import Experience from "./experience";
 
 export default function Home() {
   return (
@@ -21,6 +22,7 @@ export default function Home() {
       <main>
         <About />
         <Skills />
+        <Experience />
       </main>
     </div>
   );
