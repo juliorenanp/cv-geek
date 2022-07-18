@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+
+
+.App {
+  background-color: #e0e0e0;
+  font-size: calc(12px);
+}
+
+.nes-container {
+  margin-top: 15px;
+}
+
+#teste {
+  font-family: pokemon !important;
+}
+
+ .nes-mario {
+  height: 55px !important;
+} 
+
+.nes-squirtle {
+  height: 25px !important;
+}
+/* .App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+} */
