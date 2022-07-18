@@ -7,7 +7,7 @@ import Skills from "./skills";
 import Experience from "./experience";
 import Education from "./education";
 import Contact from "./contact";
-
+import Projects from './projects' 
 export default function Home() {
   return (
     <div className={styles.container}>
@@ -26,6 +26,7 @@ export default function Home() {
         <Skills />
         <Experience />
         <Education />
+        <Projects />
         <Contact />
       </main>
     </div>
