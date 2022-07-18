@@ -5,15 +5,22 @@ export default function Skills() {
     <div className="nes-container  with-title">
     <p className="title">Skills</p>
     <p>
-      Well, I didn't achieve lvl 999+ but I keep trying{" "}
-      <i className="snes-logo"></i>
+      Well, I dont like to consider myself as a Full Stack lvl 99+, but I keep studing for it {"  "}
+      <i className="nes-icon heart"></i>
+      <i className="nes-icon heart"></i>
+      <i className="nes-icon heart"></i>
     </p>
+    <p> Here some techs that I love to work with: </p>
     <div className="lists">
       <ul className="nes-list is-disc">
+        <li>.NET Core</li>
         <li>C#</li>
         <li>NodeJs</li>
         <li>Angular</li>
+        <li>React</li>
         <li>JavaScript</li>
+        <li>Oracle</li>
+        
       </ul>
     </div>
   </div>
