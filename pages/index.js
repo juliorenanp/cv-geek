@@ -1,6 +1,7 @@
-import Head from 'next/head'
-import Image from 'next/image'
-import styles from '../styles/Home.module.css'
+import Head from "next/head";
+import "nes.css/css/nes.min.css";
+import styles from "../styles/Home.module.css";
+import Header from "./header";
 
 export default function Home() {
   return (
@@ -11,11 +12,13 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main className={styles.main}>
-      <h2>TESTERRR</h2>
-       
-      </main>
+    <header>
+    <Header />
+    </header>
 
+      <main>
+      
+      </main>
     </div>
-  )
+  );
 }
