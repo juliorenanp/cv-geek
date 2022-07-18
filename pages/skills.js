@@ -20,7 +20,7 @@ export default function Skills() {
         <li>React</li>
         <li>JavaScript</li>
         <li>Oracle</li>
-        
+        <li>SQL</li>
       </ul>
     </div>
   </div>
