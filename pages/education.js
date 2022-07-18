@@ -55,7 +55,7 @@ export default function Education() {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  certificates
+                  Certificates.
                 </a>
               </p>
             </li>

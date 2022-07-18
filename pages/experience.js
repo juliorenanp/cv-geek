@@ -18,7 +18,7 @@ export default function Experience() {
                   {" "}
                   I am responsible for leading a team of 8 people, raising
                   activities to be executed, planning quality deliveries and
-                  developing software projects for Banco Safra's Financial Area
+                  developing software projects for Banco Safra&apos;s Financial Area
                 </p>
                 {"   "}
               </li>
@@ -37,7 +37,7 @@ export default function Experience() {
                 {" "}
                 <p>
                   {" "}
-                  Development of Safra Bank's new car sales system, bringing
+                  Development of Safra Bank&apos;s new car sales system, bringing
                   more than 1 million active customers and profits of more than
                   2 billion R$ per year.
                 </p>
@@ -53,7 +53,7 @@ export default function Experience() {
 
               <li>
                 <p>
-                  I was able to improve the team's performance by 30% by
+                  I was able to improve the team&apos;s performance by 30% by
                   creating documentation and components that can be reused
                   during the software development process.{" "}
                 </p>
@@ -70,7 +70,7 @@ export default function Experience() {
               <li>
                 Currently I am responsible for the search and correction of
                 information security vulnerabilities in all the systems used by
-                Banco Safra's Financial Department. Throughout the work we
+                Banco Safra&apos;s Financial Department. Throughout the work we
                 managed to reduce the number of vulnerabilities by 90%.{" "}
               </li>
             </ul>
@@ -397,7 +397,7 @@ export default function Experience() {
             <ul className="nes-list is-disc">
               <li>
                 <p>
-                  I was responsible for the company's infrastructure, I carried
+                  I was responsible for the company&apos;s infrastructure, I carried
                   out the installation, configuration, and administration of
                   more than one thousand eight hundred computers. We were also
                   able to reduce customer waiting times by 40% when we
