@@ -71,7 +71,7 @@ export default function Experience() {
                 Currently I am responsible for the search and correction of
                 information security vulnerabilities in all the systems used by
                 Banco {"Safra's"} Financial Department. Throughout the work we
-                managed to reduce the number of vulnerabilities by 90%.{"   "}
+                managed to reduce the number of vulnerabilities by 90%.{" "}
               </li>
             </ul>
             <ul>
@@ -80,28 +80,28 @@ export default function Experience() {
                 <span className="is-dark">.NET Core</span>
               </div>
               <div className="nes-badge">
-                <span className="is-primary">Typescript</span>
+                <span className="is-dark">Typescript</span>
               </div>
               <div className="nes-badge ">
                 <span className="is-dark">Angular</span>
               </div>
               <div className="nes-badge">
-                <span className="is-primary">Javascript</span>
+                <span className="is-dark">Javascript</span>
               </div>
               <div className="nes-badge ">
                 <span className="is-dark">TailwindCss</span>
               </div>
               <div className="nes-badge">
-                <span className="is-success">Nodejs</span>
+                <span className="is-dark">Nodejs</span>
               </div>
               <div className="nes-badge ">
-                <span className="is-error">Oracle</span>
+                <span className="is-dark">Oracle</span>
               </div>
               <div className="nes-badge">
                 <span className="is-dark">CheckMarx</span>
               </div>
               <div className="nes-badge ">
-                <span className="is-primary">Kibana</span>
+                <span className="is-dark">Kibana</span>
               </div>
               <div className="nes-badge ">
                 <span className="is-dark">Jenkins</span>
@@ -157,28 +157,28 @@ export default function Experience() {
                 <span className="is-dark">.NET</span>
               </div>
               <div className="nes-badge">
-                <span className="is-primary">Oracle</span>
+                <span className="is-dark">Oracle</span>
               </div>
               <div className="nes-badge ">
                 <span className="is-dark">Angular</span>
               </div>
               <div className="nes-badge">
-                <span className="is-primary">Javascript</span>
+                <span className="is-dark">Javascript</span>
               </div>
               <div className="nes-badge ">
                 <span className="is-dark">MVC5</span>
               </div>
               <div className="nes-badge">
-                <span className="is-success">Nodejs</span>
+                <span className="is-dark">Nodejs</span>
               </div>
               <div className="nes-badge ">
-                <span className="is-error">EXTNet MVC</span>
+                <span className="is-dark">EXTNet MVC</span>
               </div>
               <div className="nes-badge">
                 <span className="is-dark">Dynatrace</span>
               </div>
               <div className="nes-badge ">
-                <span className="is-primary">Git</span>
+                <span className="is-dark">Git</span>
               </div>
               <div className="nes-badge ">
                 <span className="is-dark">Jenkins</span>
@@ -214,28 +214,28 @@ export default function Experience() {
                 <span className="is-dark">.NET</span>
               </div>
               <div className="nes-badge">
-                <span className="is-primary">Oracle</span>
+                <span className="is-dark">Oracle</span>
               </div>
               <div className="nes-badge ">
                 <span className="is-dark">Angular</span>
               </div>
               <div className="nes-badge">
-                <span className="is-primary">Javascript</span>
+                <span className="is-dark">Javascript</span>
               </div>
               <div className="nes-badge ">
                 <span className="is-dark">MVC5</span>
               </div>
               <div className="nes-badge">
-                <span className="is-success">Nodejs</span>
+                <span className="is-dark">Nodejs</span>
               </div>
               <div className="nes-badge ">
-                <span className="is-error">EXTNet MVC</span>
+                <span className="is-dark">EXTNet MVC</span>
               </div>
               <div className="nes-badge">
                 <span className="is-dark">Dynatrace</span>
               </div>
               <div className="nes-badge ">
-                <span className="is-primary">Git</span>
+                <span className="is-dark">Git</span>
               </div>
               <div className="nes-badge ">
                 <span className="is-dark">Jenkins</span>
@@ -264,28 +264,28 @@ export default function Experience() {
                 <span className="is-dark">.NET</span>
               </div>
               <div className="nes-badge">
-                <span className="is-primary">Oracle</span>
+                <span className="is-dark">Oracle</span>
               </div>
               <div className="nes-badge ">
                 <span className="is-dark">SQL Server</span>
               </div>
               <div className="nes-badge">
-                <span className="is-primary">Javascript</span>
+                <span className="is-dark">Javascript</span>
               </div>
               <div className="nes-badge ">
                 <span className="is-dark">MVC5</span>
               </div>
               <div className="nes-badge">
-                <span className="is-success">JQuery</span>
+                <span className="is-dark">JQuery</span>
               </div>
               <div className="nes-badge ">
-                <span className="is-error">Entity</span>
+                <span className="is-dark">Entity</span>
               </div>
               <div className="nes-badge">
                 <span className="is-dark">REST API</span>
               </div>
               <div className="nes-badge ">
-                <span className="is-primary">Git</span>
+                <span className="is-dark">Git</span>
               </div>
             </ul>
           </div>
@@ -322,16 +322,16 @@ export default function Experience() {
                 <span className="is-dark">.NET</span>
               </div>
               <div className="nes-badge">
-                <span className="is-primary">Oracle</span>
+                <span className="is-dark">Oracle</span>
               </div>
               <div className="nes-badge ">
                 <span className="is-dark">SQL Server</span>
               </div>
               <div className="nes-badge">
-                <span className="is-primary">Javascript</span>
+                <span className="is-dark">Javascript</span>
               </div>
               <div className="nes-badge ">
-                <span className="is-error">Entity</span>
+                <span className="is-dark">Entity</span>
               </div>
             </ul>
           </div>
@@ -365,19 +365,19 @@ export default function Experience() {
                 <span className="is-dark">.NET</span>
               </div>
               <div className="nes-badge">
-                <span className="is-primary">Oracle</span>
+                <span className="is-dark">Oracle</span>
               </div>
               <div className="nes-badge">
                 <span className="is-dark">SQL Server</span>
               </div>
               <div className="nes-badge">
-                <span className="is-primary">Javascript</span>
+                <span className="is-dark">Javascript</span>
               </div>
               <div className="nes-badge">
-                <span className="is-error">Entity</span>
+                <span className="is-dark">Entity</span>
               </div>
               <div className="nes-badge">
-                <span className="is-primary">Bootstrap</span>
+                <span className="is-dark">Bootstrap</span>
               </div>
               <div className="nes-badge">
                 <span className="is-dark">NHibernate</span>
@@ -411,13 +411,13 @@ export default function Experience() {
                 <span className="is-dark">Cisco</span>
               </div>
               <div className="nes-badge">
-                <span className="is-primary">Oracle</span>
+                <span className="is-dark">Oracle</span>
               </div>
               <div className="nes-badge">
                 <span className="is-dark">SQL Server</span>
               </div>
               <div className="nes-badge">
-                <span className="is-primary">Windows</span>
+                <span className="is-dark">Windows</span>
               </div>
             </ul>
           </div>

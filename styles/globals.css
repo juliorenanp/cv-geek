@@ -18,6 +18,16 @@
   background-color: #ce6365;
 }
 
+.is-dark{
+  background-color: #5e41c3!important; 
+}
+
+
+/* .is-primary{
+  background-color:#b5afdd !important;
+  box-shadow: 0 0.5em #212529, 0 -0.5em #212529, 0.5em 0 #212529, -0.5em 0 #212529 !important;
+} */
+
 /*!***************************************************************************\
   NES.css Framework
   Version: development
