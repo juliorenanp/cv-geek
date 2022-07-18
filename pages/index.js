@@ -6,6 +6,7 @@ import About from "./about";
 import Skills from "./skills";
 import Experience from "./experience";
 import Education from "./education";
+import Contact from "./contact";
 
 export default function Home() {
   return (
@@ -25,6 +26,7 @@ export default function Home() {
         <Skills />
         <Experience />
         <Education />
+        <Contact />
       </main>
     </div>
   );
