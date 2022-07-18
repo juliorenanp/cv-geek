@@ -1,5 +1,4 @@
 import Head from "next/head";
-import "nes.css/css/nes.min.css";
 import styles from "../styles/Home.module.css";
 import Header from "./header";
 import About from "./about";
@@ -8,6 +7,7 @@ import Experience from "./experience";
 import Education from "./education";
 import Contact from "./contact";
 import Projects from './projects' 
+
 export default function Home() {
   return (
     <div className={styles.container}>
