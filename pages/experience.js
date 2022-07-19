@@ -18,7 +18,7 @@ export default function Experience() {
                   {" "}
                   I am responsible for leading a team of 8 people, raising
                   activities to be executed, planning quality deliveries and
-                  developing software projects for Banco  {"Safra's"} Financial Area
+                  developing software projects for Banco  {"Safra's"} Financial Area.
                 </p>
                 {"   "}
               </li>
