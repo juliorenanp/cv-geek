@@ -401,7 +401,7 @@ export default function Experience() {
                   out the installation, configuration, and administration of
                   more than one thousand eight hundred computers. We were also
                   able to reduce customer waiting times by 40% when we
-                  implemented a robust IVR system
+                  implemented a robust IVR system.
                 </p>
               </li>
             </ul>
