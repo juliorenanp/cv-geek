@@ -11,7 +11,7 @@ export default function Education() {
         <div className="lists">
           <ul className="nes-list is-circle">
             <li>
-              <p>Leadership, Innovation and Management 3.0</p>
+              <p>Leadership, Innovation and Management 3.0.</p>
             </li>
           </ul>
         </div>
@@ -21,7 +21,7 @@ export default function Education() {
         <div className="lists">
           <ul className="nes-list is-circle">
             <li>
-              <p>Analysis and Systems Development</p>
+              <p>Analysis and Systems Development.</p>
             </li>
           </ul>
         </div>
@@ -31,7 +31,7 @@ export default function Education() {
         <div className="lists">
           <ul className="nes-list is-circle">
             <li>
-              <p>Computer Network</p>
+              <p>Computer Network.</p>
             </li>
           </ul>
         </div>
@@ -42,10 +42,10 @@ export default function Education() {
         <div className="lists">
           <ul className="nes-list is-circle">
             <li>
-              <p>More than 66 courses completed</p>
+              <p>More than 66 courses completed.</p>
             </li>
             <li>
-              <p>700 hours of training</p>
+              <p>700 hours of training.</p>
             </li>
             <li>
               <p>
