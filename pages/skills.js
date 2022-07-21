@@ -13,14 +13,14 @@ export default function Skills() {
     <p> Here some techs that I love to work with: </p>
     <div className="lists">
       <ul className="nes-list is-disc">
-        <li>.NET Core</li>
-        <li>C#</li>
-        <li>NodeJs</li>
-        <li>Angular</li>
-        <li>React</li>
-        <li>JavaScript</li>
-        <li>Oracle</li>
-        <li>SQL</li>
+        <li>.NET Core;</li>
+        <li>C#;</li>
+        <li>NodeJs;</li>
+        <li>Angular;</li>
+        <li>React;</li>
+        <li>JavaScript;</li>
+        <li>Oracle;</li>
+        <li>SQL;</li>
       </ul>
     </div>
   </div>
