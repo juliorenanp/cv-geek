@@ -37,7 +37,7 @@ export default function Education() {
         </div>
 
         <p>
-          <b>IT Tranings</b> - Alura
+          <b>IT Tranings</b> - Alura (2018 - 2022)
         </p>
         <div className="lists">
           <ul className="nes-list is-circle">
