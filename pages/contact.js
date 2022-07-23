@@ -42,12 +42,14 @@ export default function Contact() {
             </div>
           </section>
           <div>
-            <i className="nes-ash"></i> {"  "}
+            {/* <i className="nes-ash"></i> {"  "} */}
+            <img className="is-rounded julio" src="https://media-exp1.licdn.com/dms/image/C4D03AQGUq1LFL1eguw/profile-displayphoto-shrink_100_100/0/1658444643717?e=1663804800&v=beta&t=PIfdk7EielDsTHFviwJnmSMiCFx1BOy4TuhX5kvFUqo"></img> {"    "}
             <i className="nes-charmander"></i>
             {"  "}
             <i className="nes-squirtle"></i>
             <i className="nes-bulbasaur"></i>
             {"  "}
+           
           </div>
         </section>
       </section>
