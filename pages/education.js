@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Education() {
   return (
-    <div className="nes-container  with-title">
+    <div className="nes-container with-title" id="education">
       <p className="title">Education</p>
       <div className="nes-container">
         <p>
