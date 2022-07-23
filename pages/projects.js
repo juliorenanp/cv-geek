@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Projects() {
   return (
-    <div className="nes-container  with-title">
+    <div className="nes-container with-title" id="projects">
     <p className="title">Personal Projects</p>
     <div className="lists">
       <ul className="nes-list is-circle">
