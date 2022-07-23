@@ -31,14 +31,19 @@ html {
   scroll-behavior: smooth;
 }
 
+b {
+  font-size: 12px;
+}
+
 .nes-container {
   margin-left: 4px !important;
   margin-right: 4px !important;
 } 
 
-b {
-  font-size: 12px;
+.nes-badge{
+  margin: 0.8em !important;
 }
+
 
 
 /* .is-primary{
