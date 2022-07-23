@@ -6,7 +6,7 @@ export default function Experience() {
         <p className="title">Experience</p>
 
         <div className="nes-container">
-          <p>
+          <p className="sub-title">
             <b>Senior System Analyst at Safra Bank (Jan/2021 until now)</b>
           </p>
 

@@ -35,6 +35,9 @@ html {
   margin-right: 4px !important;
 } 
 
+b {
+  font-size: 12px;
+}
 
 
 /* .is-primary{
