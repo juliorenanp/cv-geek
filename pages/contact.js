@@ -17,23 +17,37 @@ export default function Contact() {
             <div className="nes-balloon from-left">
               <p>
                 For sure my friend:{" "}
-                <a href="https://www.linkedin.com/in/juliorspinheiro/">
+                <a
+                  href="https://www.linkedin.com/in/juliorspinheiro/"
+                  target="_blank"
+                  rel="noreferrer"
+                >
                   <i className="nes-icon linkedin"></i>
                 </a>{" "}
-                <a href="https://github.com/juliorenanp">
+                <a
+                  href="https://github.com/juliorenanp"
+                  target="_blank"
+                  rel="noreferrer"
+                >
                   <i className="nes-icon github"></i>
                 </a>{" "}
-                <a href="https://www.instagram.com/juliorenanp/">
+                <a
+                  href="https://www.instagram.com/juliorenanp/"
+                  target="_blank"
+                  rel="noreferrer"
+                >
                   <i className="nes-icon instagram"></i>
                 </a>{" "}
               </p>
             </div>
           </section>
           <div>
-          <i className="nes-ash"></i> {"  "}
-          <i className="nes-charmander"></i>{"  "}
-          <i className="nes-squirtle"></i>
-          <i className="nes-bulbasaur"></i>{"  "}
+            <i className="nes-ash"></i> {"  "}
+            <i className="nes-charmander"></i>
+            {"  "}
+            <i className="nes-squirtle"></i>
+            <i className="nes-bulbasaur"></i>
+            {"  "}
           </div>
         </section>
       </section>
