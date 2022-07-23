@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Skills() {
   return (
-    <div className="nes-container  with-title">
+    <div className="nes-container  with-title" id="skill">
     <p className="title">Skills</p>
     <p>
       Well, I dont like to consider myself as a Full Stack lvl 99+, but I keep studing for it {"  "}

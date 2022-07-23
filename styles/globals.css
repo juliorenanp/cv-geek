@@ -26,6 +26,12 @@ body {
   font-size: 11px !important;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
+
+
 
 /* .is-primary{
   background-color:#b5afdd !important;

@@ -2,7 +2,7 @@ import React from "react";
 
 export default function About() {
   return (
-    <div className="nes-container with-title ">
+    <div className="nes-container with-title" id="about">
       <p className="title">About me</p>
       <p>
         Hi, my name is Julio Pinheiro and I live in São Paulo, Brazil. {"I've"}  been
