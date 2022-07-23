@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Contact() {
     return (
-      <div className="nes-container  with-title">
+      <div className="nes-container with-title" id="contact">
         <p className="title">Contact</p>
 
         <section className="nes-container">
