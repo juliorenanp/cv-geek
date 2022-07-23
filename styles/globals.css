@@ -30,6 +30,10 @@ html {
   scroll-behavior: smooth;
 }
 
+.nes-container {
+  margin-left: 4px !important;
+  margin-right: 4px !important;
+} 
 
 
 
