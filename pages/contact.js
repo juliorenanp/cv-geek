@@ -17,12 +17,15 @@ export default function Contact() {
             <div className="nes-balloon from-left">
               <p>
                 For sure my friend:{" "}
+                <a href="https://www.linkedin.com/in/juliorspinheiro/">
+                  <i className="nes-icon linkedin"></i>
+                </a>{" "}
                 <a href="https://github.com/juliorenanp">
                   <i className="nes-icon github"></i>
                 </a>{" "}
-                <a href="https://www.linkedin.com/in/juliorspinheiro/">
-                  <i className="nes-icon linkedin"></i>
-                </a>
+                <a href="https://www.instagram.com/juliorenanp/">
+                  <i className="nes-icon instagram"></i>
+                </a>{" "}
               </p>
             </div>
           </section>
