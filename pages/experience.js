@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Experience() {
   return (
-    <div className="nes-container  with-title">
+    <div className="nes-container with-title" id="experience">
         <p className="title">Experience</p>
 
         <div className="nes-container">

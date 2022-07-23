@@ -6,9 +6,9 @@ export default function Header() {
       <p className="title">Welcome 🤘 </p>
       This is my creative resume! Hope you like it!{" "}
       <i className="nes-icon  like"></i>
-
-    <p><a href="#about">About me </a> - <a href="#skill">Skills </a> </p>
-
+      <p>
+        <a href="#about">About me </a> - <a href="#skill">Skills </a> - <a href="#experience">Experience </a>
+      </p>
     </div>
   );
 }
