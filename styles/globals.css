@@ -44,6 +44,9 @@ b {
   margin: 0.8em !important;
 }
 
+.nes-balloon{
+  border-image-repeat: inherit !important;
+}
 
 
 /* .is-primary{

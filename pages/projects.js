@@ -25,9 +25,9 @@ export default function Projects() {
               target="_blank"
               rel="noreferrer"
             >
-              Gameboy with Pokemon Yellow
+              Gameboy with Pokemon Yellow 
             </a>{" "}
-            - HTML, CSS, Javascript.
+            - HTML, CSS, Javascript. 
           </p>
         </li>
       </ul>
