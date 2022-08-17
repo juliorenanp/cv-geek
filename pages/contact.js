@@ -16,7 +16,7 @@ export default function Contact() {
           <section className="message -left">
             <div className="nes-balloon from-left">
               <p>
-                For sure my friend:{" "}
+                 Sure my friend:{" "}
                 <a
                   href="https://www.linkedin.com/in/juliorspinheiro/"
                   target="_blank"
