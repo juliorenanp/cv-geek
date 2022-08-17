@@ -19,8 +19,10 @@ export default function Skills() {
         <li>Angular;</li>
         <li>React;</li>
         <li>JavaScript;</li>
+        <li>TypeScript;</li>
         <li>Oracle;</li>
         <li>SQL;</li>
+        <li>MongoDB;</li>
       </ul>
     </div>
   </div>
