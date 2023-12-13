@@ -9,14 +9,15 @@ export default function Contact() {
         <section className="message-list">
           <section className="message -left">
             <div className="nes-balloon from-left">
-              <p>Nice CV Julio, can you pass me your contact?</p>
+              <p>
+                Nice resume Julio, can you give me your contact information?
+              </p>
             </div>
           </section>
           <i className="nes-mario"></i>
           <section className="message -left">
             <div className="nes-balloon from-left">
               <p>
-                Sure my friend:{" "}
                 <a
                   href="https://www.linkedin.com/in/juliorspinheiro/"
                   target="_blank"
