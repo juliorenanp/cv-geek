@@ -37,15 +37,15 @@ export default function Education() {
         </div>
 
         <p>
-          <b>IT Tranings</b> - Alura (2018 - 2022)
+          <b>IT Training</b>
         </p>
         <div className="lists">
           <ul className="nes-list is-circle">
             <li>
-              <p>More than 66 courses completed.</p>
+              <p>Over 70 courses completed.</p>
             </li>
             <li>
-              <p>700 hours of training.</p>
+              <p>700+ hours of training.</p>
             </li>
             <li>
               <p>
