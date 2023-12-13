@@ -16,7 +16,7 @@ export default function Contact() {
           <section className="message -left">
             <div className="nes-balloon from-left">
               <p>
-                 Sure my friend:{" "}
+                Sure my friend:{" "}
                 <a
                   href="https://www.linkedin.com/in/juliorspinheiro/"
                   target="_blank"
@@ -43,13 +43,16 @@ export default function Contact() {
           </section>
           <div>
             {/* <i className="nes-ash"></i> {"  "} */}
-            <img className="is-rounded julio" src="https://media-exp1.licdn.com/dms/image/C4D03AQGUq1LFL1eguw/profile-displayphoto-shrink_100_100/0/1658444643717?e=1663804800&v=beta&t=PIfdk7EielDsTHFviwJnmSMiCFx1BOy4TuhX5kvFUqo"></img> {"    "}
+            <img
+              className="is-rounded julio"
+              src="https://media.licdn.com/dms/image/C4D03AQGUq1LFL1eguw/profile-displayphoto-shrink_400_400/0/1658444644066?e=1707955200&v=beta&t=9fwhiYOaOedMSviB0bItyYiyAae8wnVz1JDBUPRM_iA"
+            />
+            {"    "}
             <i className="nes-charmander"></i>
             {"  "}
             <i className="nes-squirtle"></i>
             <i className="nes-bulbasaur"></i>
             {"  "}
-           
           </div>
         </section>
       </section>
