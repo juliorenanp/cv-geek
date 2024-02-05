@@ -16,8 +16,9 @@ export default function Experience() {
               {" "}
               <p>
                 {" "}
-                I am responsible for developing some solutions for Thinkom. Sush
-                as dashboards, hardware management system and reporting systems.
+                Responsible for web development of systems such as dashboards,
+                hardware management systems, and data analysis platforms for
+                Thinkom.
               </p>
               {"   "}
             </li>
@@ -30,11 +31,17 @@ export default function Experience() {
             <div className="nes-badge ">
               <span className="is-dark">Angular</span>
             </div>
+            <div className="nes-badge ">
+              <span className="is-dark">NodeJs</span>
+            </div>
             <div className="nes-badge">
               <span className="is-dark">Javascript</span>
             </div>
             <div className="nes-badge ">
               <span className="is-dark">TailwindCss</span>
+            </div>
+            <div className="nes-badge ">
+              <span className="is-dark">Cypress</span>
             </div>
             <div className="nes-badge ">
               <span className="is-dark">Jenkins</span>
