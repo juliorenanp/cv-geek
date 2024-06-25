@@ -5,15 +5,31 @@ export default function About() {
     <div className="nes-container with-title" id="about">
       <p className="title">About me</p>
       <p>
-        My name is Julio Pinheiro and I live in São Paulo, Brazil 🇧🇷. <br />
-        {"I've"} been a software developer for the last nine years! and worked
-        in different business areas and with very cool and interesting
-        technologies. I have learned a lot during my career and what I value the
-        most is meeting the real needs of the customers/business. I also had the
-        great opportunity to lead teams during some projects and understand the
-        profiles of each of them. I really enjoy teaching, especially to people
-        new to the field, I have had several nice opportunities in this regard.
-        I also like to learn from the team and keep the team engaged.
+        Hello! My name is Julio Renan S. Pinheiro, and I am a software developer
+        based in San Diego, California 🇺🇸. with ten years of experience in the
+        industry. <br />
+        Throughout my career, I have had the privilege of working across diverse
+        business areas, utilizing a variety of exciting and innovative
+        technologies.
+        <p>
+          I am passionate about understanding and meeting the real needs of
+          customers and businesses, which I believe is crucial for delivering
+          impactful solutions.
+        </p>
+        <p>
+          Over the years, I have also had the opportunity to lead teams on
+          various projects. This experience has not only honed my leadership
+          skills but also deepened my understanding of different team dynamics
+          and profiles.
+        </p>
+        <p>
+          I enjoy teaching, especially mentoring individuals who are new to the
+          field. I have had several rewarding experiences in this capacity and
+          always strive to foster an engaging and collaborative team
+          environment. Continuous learning is a cornerstone of my professional
+          philosophy and I am always eager to share my knowledge and learn from
+          my colleagues.
+        </p>
       </p>
     </div>
   );
