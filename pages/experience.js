@@ -7,7 +7,7 @@ export default function Experience() {
 
       <div className="nes-container">
         <p className="sub-title">
-          <b>Fullstack Developer at Xfive (Out/2022 until now)</b>
+          <b>Senior Software Engineer at Xfive (Out/2022 until now)</b>
         </p>
 
         <div className="lists">
@@ -32,10 +32,10 @@ export default function Experience() {
               <span className="is-dark">Angular</span>
             </div>
             <div className="nes-badge ">
-              <span className="is-dark">NodeJs</span>
+              <span className="is-dark">Node.js</span>
             </div>
             <div className="nes-badge">
-              <span className="is-dark">Javascript</span>
+              <span className="is-dark">JavaScript</span>
             </div>
             <div className="nes-badge ">
               <span className="is-dark">TailwindCss</span>
@@ -52,7 +52,7 @@ export default function Experience() {
 
       <div className="nes-container">
         <p className="sub-title">
-          <b>Senior System Analyst at Safra Bank (Jan/2021 - Out/2022)</b>
+          <b>Senior Software Engineer at Safra Bank (Jan/2021 - Out/2022)</b>
         </p>
 
         <div className="lists">
@@ -61,10 +61,9 @@ export default function Experience() {
               {" "}
               <p>
                 {" "}
-                I am responsible for leading a team of 8 people, raising
-                activities to be executed, planning quality deliveries and
-                developing software projects for Banco {"Safra's"} Financial
-                Area.
+                Responsible for managing a team of 8 people, gathering
+                activities to be performed, planning quality deliveries, and
+                developing software projects for Safra Bank Financial Area.
               </p>
               {"   "}
             </li>
@@ -75,7 +74,7 @@ export default function Experience() {
                 {" "}
                 Responsible for developing and gathering requirements for the
                 implementation of Open Banking at Safra Bank, resulting in more
-                than 15,000 customers sharing their information monthly.{" "}
+                than 15,000 customers sharing their information monthly.
               </p>
             </li>
 
@@ -83,41 +82,40 @@ export default function Experience() {
               {" "}
               <p>
                 {" "}
-                Development of Safra {"Bank's"} new car sales system, bringing
-                more than 1 million active customers and profits of more than 2
-                billion R$ per year.
+                Developed Safra Bank new car sales system, resulting in more
+                than 1 million active customers and profits of more than R$2
+                billion per year.
               </p>
             </li>
 
             <li>
               {" "}
               <p>
-                I led a project to develop a system for simulating and
-                contracting financing for solar panels.{" "}
+                Led a project to develop a system to simulate and contract the
+                financing of solar panels.
               </p>
             </li>
 
             <li>
               <p>
-                I was able to improve the {"team's"} performance by 30% by
-                creating documentation and components that can be reused during
-                the software development process.{" "}
+                Improved team performance by 30% by creating documentation and
+                components that could be reused throughout the software
+                development process.
               </p>
             </li>
 
             <li>
               <p>
-                {" "}
-                I was able to decrease the time invested in meetings by 40%
-                using the agile SCRUM methodology.{" "}
+                Reduced the time spent in meetings by 40% using the agile SCRUM
+                methodology.
               </p>
             </li>
 
             <li>
-              Currently I am responsible for the search and correction of
-              information security vulnerabilities in all the systems used by
-              Banco {"Safra's"} Financial Department. Throughout the work we
-              managed to reduce the number of vulnerabilities by 90%.{" "}
+              Responsible for finding and correcting information security
+              vulnerabilities in all the systems used by Safra Bank financial
+              department. Managed to reduce the number of vulnerabilities by
+              90%.
             </li>
           </ul>
           <ul>
@@ -132,19 +130,19 @@ export default function Experience() {
               <span className="is-dark">Angular</span>
             </div>
             <div className="nes-badge">
-              <span className="is-dark">Javascript</span>
+              <span className="is-dark">JavaScript</span>
             </div>
             <div className="nes-badge ">
               <span className="is-dark">TailwindCss</span>
             </div>
             <div className="nes-badge">
-              <span className="is-dark">Nodejs</span>
+              <span className="is-dark">Node.js</span>
             </div>
             <div className="nes-badge ">
               <span className="is-dark">Oracle</span>
             </div>
             <div className="nes-badge">
-              <span className="is-dark">CheckMarx</span>
+              <span className="is-dark">SQL</span>
             </div>
             <div className="nes-badge ">
               <span className="is-dark">Kibana</span>
@@ -158,39 +156,47 @@ export default function Experience() {
 
       <div className="nes-container">
         <p>
-          <b>Development Consultant at Santander Bank (May/2017 - Jan/2021)</b>
+          <b>
+            Software Development Consultant at Santander Bank (May/2017 -
+            Jan/2021)
+          </b>
         </p>
         <div className="lists">
           <ul className="nes-list is-disc">
             <li>
               <p>
-                I developed more than twenty-three business intelligence panels
-                with management information such as credit card sales,
-                investments, and customer portfolio management for Santander
-                Bank commercial managers, resulting in more than 13 million
-                monthly active customers.
+                Developed over twenty-three business intelligence panels with
+                management information such as credit card sales, investments,
+                and customer portfolio management for Santander Bank commercial
+                managers, resulting in more than 13 million monthly active
+                customers.
               </p>
             </li>
             <li>
               <p>
-                I was also responsible for leading a team of nine people in the
-                development and maintenance of Santander Bank systems.
+                Led a team of nine in the development and maintenance of
+                Santander Bank systems
               </p>
             </li>
             <li>
               <p>
-                {" "}
-                I developed a new customer prospecting system for Santander Bank
-                that is used by more than 20 thousand managers, bringing an
-                average of 15 thousand new customers monthly.
+                Developed a new customer prospecting system for Santander Bank
+                used by over 20 thousand managers, bringing an average of 15
+                thousand new customers monthly.
               </p>
             </li>
             <li>
               <p>
-                {" "}
-                I was also responsible for the idealization and creation of a
-                “Knowledge Academy”, we held technology courses and various
-                subjects for more than 1500 people at Santander Bank.
+                Ideated and created a “Knowledge Academy,” offering technology
+                courses and various subjects to over 1500 people at Santander
+                Bank.
+              </p>
+            </li>
+            <li>
+              <p>
+                Acting in the development of dashboards with analytical
+                information, facilitating the management of the entire
+                commercial network.
               </p>
             </li>
           </ul>
@@ -207,13 +213,16 @@ export default function Experience() {
               <span className="is-dark">Angular</span>
             </div>
             <div className="nes-badge">
-              <span className="is-dark">Javascript</span>
+              <span className="is-dark">JavaScript</span>
+            </div>
+            <div className="nes-badge">
+              <span className="is-dark">Typescript</span>
             </div>
             <div className="nes-badge ">
               <span className="is-dark">MVC5</span>
             </div>
             <div className="nes-badge">
-              <span className="is-dark">Nodejs</span>
+              <span className="is-dark">Node.js</span>
             </div>
             <div className="nes-badge ">
               <span className="is-dark">EXTNet MVC</span>
@@ -233,21 +242,21 @@ export default function Experience() {
 
       <div className="nes-container">
         <p>
-          <b>Development Analyst at Marketdata (Jul/2016 - May/2017)</b>
+          <b>Software Engineer at Marketdata (Jul/2016 - May/2017)</b>
         </p>
         <div className="lists">
           <ul className="nes-list is-disc">
             <li>
               <p>
-                We were able to reduce the average time to build new
-                technological tools by up to 30% using new technologies and
-                agile methodologies during the development process.
+                Reduced the average time to build new technological tools by up
+                to 30% using new technologies and agile methodologies during the
+                development process.
               </p>
             </li>
             <li>
               <p>
-                I was responsible for developing new solutions for Santander
-                Bank, along with analytical information and reports.
+                Developed new solutions for Santander Bank, along with
+                analytical information and reports.
               </p>
             </li>
           </ul>
@@ -264,13 +273,13 @@ export default function Experience() {
               <span className="is-dark">Angular</span>
             </div>
             <div className="nes-badge">
-              <span className="is-dark">Javascript</span>
+              <span className="is-dark">JavaScript</span>
             </div>
             <div className="nes-badge ">
               <span className="is-dark">MVC5</span>
             </div>
             <div className="nes-badge">
-              <span className="is-dark">Nodejs</span>
+              <span className="is-dark">Node.js</span>
             </div>
             <div className="nes-badge ">
               <span className="is-dark">EXTNet MVC</span>
@@ -290,15 +299,15 @@ export default function Experience() {
 
       <div className="nes-container">
         <p>
-          <b>Software Developer at BlueConecta (Feb/2016 - Jul/2016)</b>
+          <b>Software Engineer at BlueConecta (Feb/2016 - Jul/2016)</b>
         </p>
         <div className="lists">
           <ul className="nes-list is-disc">
             <li>
               <p>
-                I was responsible for developing the main product of the company
-                and other products of Blue Conecta. Also working on data
-                analytics and creation of business reports.
+                Responsible for the development of the company main product and
+                other Blue Conecta products. I also worked on data analysis and
+                creation of business reports.
               </p>
             </li>
           </ul>
@@ -314,7 +323,7 @@ export default function Experience() {
               <span className="is-dark">SQL Server</span>
             </div>
             <div className="nes-badge">
-              <span className="is-dark">Javascript</span>
+              <span className="is-dark">JavaScript</span>
             </div>
             <div className="nes-badge ">
               <span className="is-dark">MVC5</span>
@@ -328,6 +337,9 @@ export default function Experience() {
             <div className="nes-badge">
               <span className="is-dark">REST API</span>
             </div>
+            <div className="nes-badge">
+              <span className="is-dark">Angular</span>
+            </div>
             <div className="nes-badge ">
               <span className="is-dark">Git</span>
             </div>
@@ -337,25 +349,25 @@ export default function Experience() {
 
       <div className="nes-container">
         <p>
-          <b>Software Developer at Docwise (Jun/2014 - Feb/2016)</b>
+          <b>Software Engineer at Docwise (Jun/2014 - Feb/2016)</b>
         </p>
         <div className="lists">
           <ul className="nes-list is-disc">
             <li>
               <p>
-                I implemented electronic document management systems in more
-                than fifteen law firms, some of which are the largest in Brazil,
-                such as Pinheiro Neto, Machado Meyer, and Mattos Filho. At
-                Docwise I was also responsible for the mesh optimization and
-                tuning of the Oracle and SQL database. I also performed the
-                automation of the creation of new management reports.
+                Implemented electronic document management systems in over
+                fifteen law firms, including some of the largest in Brazil, such
+                as Pinheiro Neto, Machado Meyer, and Mattos Filho. At Docwise,
+                also responsible for the mesh optimization and tuning of the
+                Oracle and SQL database, and the automation of the creation of
+                new management reports.
               </p>
             </li>
             <li>
               <p>
-                I was responsible for developing the main product of the company
-                and other products of Docwise. Also working on data analytics
-                and creation of business reports.
+                Developed the main product of the company and other products at
+                Docwise. Also worked on data analytics and the creation of
+                business reports.
               </p>
             </li>
           </ul>
@@ -371,7 +383,7 @@ export default function Experience() {
               <span className="is-dark">SQL Server</span>
             </div>
             <div className="nes-badge">
-              <span className="is-dark">Javascript</span>
+              <span className="is-dark">JavaScript</span>
             </div>
             <div className="nes-badge ">
               <span className="is-dark">Entity</span>
@@ -382,21 +394,23 @@ export default function Experience() {
 
       <div className="nes-container">
         <p>
-          <b>Software Developer at Build IT Solutions (Jul/2013 - Jun/2014)</b>
+          <b>
+            Junior Software Engineer at Build IT Solutions (Jul/2013 - Jun/2014)
+          </b>
         </p>
         <div className="lists">
           <ul className="nes-list is-disc">
             <li>
               <p>
-                I was responsible for developing a lot of products of the
-                company and other products of Build IT.
+                Developed numerous products for the company and other products
+                at Build IT.
               </p>
             </li>
             <li>
               <p>
-                I developed and implemented an information security
-                vulnerability assessment and control system for the systems of
-                one of the largest telecommunication companies in Brazil, TIM.
+                Developed and implemented an information security vulnerability
+                assessment and control system for the systems of one of the
+                largest telecommunication companies in Brazil, TIM.
               </p>
             </li>
           </ul>
@@ -412,7 +426,7 @@ export default function Experience() {
               <span className="is-dark">SQL Server</span>
             </div>
             <div className="nes-badge">
-              <span className="is-dark">Javascript</span>
+              <span className="is-dark">JavaScript</span>
             </div>
             <div className="nes-badge">
               <span className="is-dark">Entity</span>
@@ -438,11 +452,10 @@ export default function Experience() {
           <ul className="nes-list is-disc">
             <li>
               <p>
-                I was responsible for the {"company's "} infrastructure, I
-                carried out the installation, configuration, and administration
-                of more than one thousand eight hundred computers. We were also
-                able to reduce customer waiting times by 40% when we implemented
-                a robust IVR system.
+                Managed the company infrastructure, including the installation,
+                configuration, and administration of over one thousand eight
+                hundred computers. Reduced customer waiting times by 40% by
+                implementing a robust IVR system.
               </p>
             </li>
           </ul>
