@@ -44,6 +44,12 @@ export default function Experience() {
               <span className="is-dark">Cypress</span>
             </div>
             <div className="nes-badge ">
+              <span className="is-dark">D3.js</span>
+            </div>
+            <div className="nes-badge ">
+              <span className="is-dark">Plotly Js</span>
+            </div>
+            <div className="nes-badge ">
               <span className="is-dark">Jenkins</span>
             </div>
           </ul>
