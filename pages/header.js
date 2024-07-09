@@ -5,7 +5,7 @@ export default function Header() {
     <div className="nes-container with-title is-centered">
       <p className="title nes-black">Welcome!</p>
       This is my geek resume! Hope you like it!{" "}
-      <i className="nes-icon  like"></i>
+      <i className="nes-icon like is-small"></i>
       <p>
         <a href="#about" className="secondary">
           About me

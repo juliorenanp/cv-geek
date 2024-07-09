@@ -18,7 +18,7 @@ export default function Experience() {
                 {" "}
                 Responsible for web development of systems such as dashboards,
                 hardware management systems, and data analysis platforms for
-                Thinkom.
+                ThinKom Solutions, Inc..
               </p>
               {"   "}
             </li>
