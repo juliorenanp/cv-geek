@@ -18,13 +18,14 @@ export default function Experience() {
                 {" "}
                 Responsible for web development of systems such as dashboards,
                 hardware management systems, and data analysis platforms for
-                ThinKom Solutions, Inc..
+                ThinKom Solutions, Inc.
               </p>
               {"   "}
             </li>
           </ul>
           <ul>
-            <p> Main Techs:</p>
+            <span> Main Techs:</span>
+            <br />
             <div className="nes-badge">
               <span className="is-dark">Typescript</span>
             </div>
@@ -125,7 +126,8 @@ export default function Experience() {
             </li>
           </ul>
           <ul>
-            <p> Main Techs:</p>
+            <span> Main Techs:</span>
+            <br />
             <div className="nes-badge">
               <span className="is-dark">C#</span>
             </div>
@@ -211,7 +213,8 @@ export default function Experience() {
           </ul>
 
           <ul>
-            <p> Main Techs:</p>
+            <span> Main Techs:</span>
+            <br />
             <div className="nes-badge">
               <span className="is-dark">C#</span>
             </div>
@@ -274,7 +277,8 @@ export default function Experience() {
           </ul>
 
           <ul>
-            <p> Main Techs:</p>
+            <span> Main Techs:</span>
+            <br />
             <div className="nes-badge">
               <span className="is-dark">C#</span>
             </div>
@@ -327,7 +331,8 @@ export default function Experience() {
             </li>
           </ul>
           <ul>
-            <p> Main Techs:</p>
+            <span> Main Techs:</span>
+            <br />
             <div className="nes-badge">
               <span className="is-dark">C#</span>
             </div>
@@ -390,7 +395,8 @@ export default function Experience() {
             </li>
           </ul>
           <ul>
-            <p> Main Techs:</p>
+            <span> Main Techs:</span>
+            <br />
             <div className="nes-badge">
               <span className="is-dark">C#</span>
             </div>
@@ -436,7 +442,8 @@ export default function Experience() {
             </li>
           </ul>
           <ul>
-            <p> Main Techs:</p>
+            <span> Main Techs:</span>
+            <br />
             <div className="nes-badge">
               <span className="is-dark">C#</span>
             </div>
@@ -484,7 +491,8 @@ export default function Experience() {
             </li>
           </ul>
           <ul>
-            <p> Main Techs:</p>
+            <span> Main Techs:</span>
+            <br />
             <div className="nes-badge">
               <span className="is-dark">Cisco</span>
             </div>
