@@ -127,6 +127,9 @@ export default function Experience() {
           <ul>
             <p> Main Techs:</p>
             <div className="nes-badge">
+              <span className="is-dark">C#</span>
+            </div>
+            <div className="nes-badge">
               <span className="is-dark">.NET Core</span>
             </div>
             <div className="nes-badge">
@@ -210,6 +213,9 @@ export default function Experience() {
           <ul>
             <p> Main Techs:</p>
             <div className="nes-badge">
+              <span className="is-dark">C#</span>
+            </div>
+            <div className="nes-badge">
               <span className="is-dark">.NET</span>
             </div>
             <div className="nes-badge">
@@ -270,6 +276,9 @@ export default function Experience() {
           <ul>
             <p> Main Techs:</p>
             <div className="nes-badge">
+              <span className="is-dark">C#</span>
+            </div>
+            <div className="nes-badge">
               <span className="is-dark">.NET</span>
             </div>
             <div className="nes-badge">
@@ -319,6 +328,9 @@ export default function Experience() {
           </ul>
           <ul>
             <p> Main Techs:</p>
+            <div className="nes-badge">
+              <span className="is-dark">C#</span>
+            </div>
             <div className="nes-badge">
               <span className="is-dark">.NET</span>
             </div>
@@ -380,6 +392,9 @@ export default function Experience() {
           <ul>
             <p> Main Techs:</p>
             <div className="nes-badge">
+              <span className="is-dark">C#</span>
+            </div>
+            <div className="nes-badge">
               <span className="is-dark">.NET</span>
             </div>
             <div className="nes-badge">
@@ -422,6 +437,9 @@ export default function Experience() {
           </ul>
           <ul>
             <p> Main Techs:</p>
+            <div className="nes-badge">
+              <span className="is-dark">C#</span>
+            </div>
             <div className="nes-badge">
               <span className="is-dark">.NET</span>
             </div>
@@ -478,6 +496,9 @@ export default function Experience() {
             </div>
             <div className="nes-badge">
               <span className="is-dark">Windows</span>
+            </div>
+            <div className="nes-badge">
+              <span className="is-dark">Active D.</span>
             </div>
           </ul>
         </div>
