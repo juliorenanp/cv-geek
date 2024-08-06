@@ -6,21 +6,20 @@ export default function About() {
       <p className="title">About me</p>
       <div>
         <p>
-          Hello! My name is Julio Pinheiro, and I am a software developer based
-          in San Diego, California 🇺🇸, with twelve years of experience in the
-          industry. Throughout my career, I have had the privilege of working
-          across diverse business areas, utilizing a variety of exciting and
-          innovative technologies.
+          I&apos;m Julio Pinheiro, a software engineer based in San Diego,
+          California, with twelve years of experience in software development.
+          I&apos;ve had the opportunity to work in diverse business areas,
+          leveraging cutting-edge technologies to create innovative solutions.
         </p>
 
         <p>
           {" "}
-          I am passionate about understanding and meeting the real needs of
-          customers and businesses, which I believe is crucial for delivering
-          impactful solutions. Over the years, I have also had the opportunity
-          to lead teams on various projects. This experience has not only honed
-          my leadership skills but also deepened my understanding of different
-          team dynamics and profiles.{" "}
+          I&apos;m passionate about understanding and addressing the real needs
+          of customers and businesses, as I believe this is key to delivering
+          impactful results. My experience includes leading teams on various
+          projects, which has refined my leadership abilities and provided me
+          with valuable insights into team dynamics and collaboration. I&apos;m
+          excited to continue growing and contributing to the tech industry.{" "}
         </p>
 
         <p>

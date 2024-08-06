@@ -43,7 +43,6 @@ export default function Contact() {
             </div>
           </section>
           <div>
-            {/* <i className="nes-ash"></i> {"  "} */}
             <img
               className="is-rounded julio"
               src="https://media.licdn.com/dms/image/C4D03AQGUq1LFL1eguw/profile-displayphoto-shrink_800_800/0/1658444644066?e=1725494400&v=beta&t=rVwsoTsdAJVVX6awrtZCrh2iShB9_PbskB4tEvfKv3A"

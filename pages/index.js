@@ -1,12 +1,12 @@
-import Head from "next/head";
-import styles from "../styles/Home.module.css";
-import Header from "./header";
 import About from "./about";
-import Skills from "./skills";
-import Experience from "./experience";
-import Education from "./education";
 import Contact from "./contact";
+import Education from "./education";
+import Experience from "./experience";
+import Head from "next/head";
+import Header from "./header";
 import Projects from "./projects";
+import Skills from "./skills";
+import styles from "../styles/Home.module.css";
 
 export default function Home() {
   return (
