@@ -16,11 +16,60 @@ export default function Experience() {
               {" "}
               <p>
                 {" "}
-                Responsible for web development of systems such as dashboards,
-                hardware management systems, and data analysis platforms for
-                ThinKom Solutions, Inc.
+                Responsible for the full-stack web development of systems for
+                Thinkom, a company providing WiFi solutions for airplanes.
               </p>
               {"   "}
+            </li>
+            <li>
+              <p>
+                {" "}
+                Designed and implemented user interfaces and dashboards using
+                Angular and React, ensuring a seamless user experience.
+              </p>
+            </li>
+            <li>
+              <p>
+                {" "}
+                Developed hardware management systems to facilitate the
+                configuration and monitoring of antenna systems.
+              </p>
+            </li>
+            <li>
+              <p>
+                {" "}
+                Collaborated with cross-functional teams to adopt and optimize
+                RESTful APIs, improving data communication and system
+                integration.
+              </p>
+            </li>
+            <li>
+              <p>
+                {" "}
+                Utilized TypeScript, Node.js, and JavaScript to create scalable
+                and maintainable codebases.
+              </p>
+            </li>
+            <li>
+              <p>
+                {" "}
+                Automated testing processes using Cypress and Jest, enhancing
+                the reliability of the systems.
+              </p>
+            </li>
+            <li>
+              <p>
+                {" "}
+                Implemented CI/CD pipelines with Jenkins, streamlining
+                deployment processes.
+              </p>
+            </li>
+            <li>
+              <p>
+                {" "}
+                Applied user experience design principles with tools like Figma
+                to enhance user interactions and visual appeal.
+              </p>
             </li>
           </ul>
           <ul>
