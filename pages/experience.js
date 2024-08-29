@@ -82,6 +82,9 @@ export default function Experience() {
               <span className="is-dark">Angular</span>
             </div>
             <div className="nes-badge ">
+              <span className="is-dark">React Js</span>
+            </div>
+            <div className="nes-badge ">
               <span className="is-dark">Node.js</span>
             </div>
             <div className="nes-badge">
