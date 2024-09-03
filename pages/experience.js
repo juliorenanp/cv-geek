@@ -251,8 +251,7 @@ export default function Experience() {
             <li>
               <p>
                 Ideated and created a “Knowledge Academy,” offering technology
-                courses and various subjects to over 1500 people at Santander
-                Bank.
+                courses and subjects to over 1500 people at Santander Bank.
               </p>
             </li>
             <li>
