@@ -376,9 +376,9 @@ export default function Experience() {
           <ul className="nes-list is-disc">
             <li>
               <p>
-                Responsible for the development of the company main product and
-                other Blue Conecta products. I also worked on data analysis and
-                creation of business reports.
+                Play a key role in the development of the Blue Conecta flagship
+                product, a cutting-edge WiFi-based solution designed to enhance
+                the customer experience and drive sales for our retail partners.
               </p>
             </li>
           </ul>
