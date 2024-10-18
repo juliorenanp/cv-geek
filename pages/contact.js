@@ -1,4 +1,6 @@
 import React from "react";
+import Image from "next/image";
+import julio from "../public/assets/julio.jpeg";
 
 export default function Contact() {
   return (
@@ -16,7 +18,10 @@ export default function Contact() {
           </section>
           <i className="nes-mario"></i>
           <section className="message -left">
-            <div className="nes-balloon from-left">
+            <div
+              className="nes-balloon from-left"
+              style={{ marginLeft: "100px" }}
+            >
               <p>
                 <a
                   href="https://www.linkedin.com/in/juliorspinheiro/"
@@ -43,9 +48,12 @@ export default function Contact() {
             </div>
           </section>
           <div>
-            <img
-              className="is-rounded julio"
-              src="https://media.licdn.com/dms/image/C4D03AQGUq1LFL1eguw/profile-displayphoto-shrink_800_800/0/1658444644066?e=1725494400&v=beta&t=rVwsoTsdAJVVX6awrtZCrh2iShB9_PbskB4tEvfKv3A"
+            <Image
+              src={julio}
+              width={150}
+              height={150}
+              alt="Julio Picture"
+              style={{ borderRadius: "300px" }}
             />
             {"    "}
             <i className="nes-charmander"></i>
