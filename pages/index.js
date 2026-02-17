@@ -2,6 +2,7 @@ import About from "./about";
 import Contact from "./contact";
 import Education from "./education";
 import Experience from "./experience";
+import Game from "./game";
 import Head from "next/head";
 import Header from "./header";
 import Projects from "./projects";
@@ -30,7 +31,8 @@ export default function Home() {
 
       <div className="custom-center">
         <header>
-          <Header />
+          <Game />
+          {/* <Header /> */}
         </header>
         <main>
           <About />
